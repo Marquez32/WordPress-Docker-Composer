@@ -1,5 +1,6 @@
 # WordPress docker-compose
 ## 1- Configuramos el vagrantFile de la manera que nosotros queramos.
+Si quieres ver cómo está mi configuración puedes ir al archivo VagrantFile.
 
 ## 2- Clonamos el repositorio y vamos a la carpeta del docker-compose.yaml
 ```
